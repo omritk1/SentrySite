@@ -1,0 +1,24 @@
+.sub-menu-item p{
+  text-align: center;
+  cursor: pointer;
+}
+.sub-menu{
+  margin-top: 20px;
+}
+p.sub-menu-top-item {
+    font-size: 17px;
+    font-weight: bold;
+    margin: 0;
+}
+p.sub-menu-bottom-item {
+    font-size: 14px;
+}
+p.sub-menu-project {
+    padding: 5px;
+    background: #259c70;
+    color: white;
+    width: 80%;
+    margin-right: 15%;
+    border-radius: 16px;
+    font-weight: 600;
+}

@@ -1,0 +1,15 @@
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+*{
+  overflow: hidden;
+}
+
+.col-3{
+  padding: 5px;
+}
+img{
+  max-height: 314px;
+}

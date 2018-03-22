@@ -1,0 +1,26 @@
+.fa-1x {
+    font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+    cursor: pointer;
+}
+.site-logo{
+  float: left;
+}
+.contact p {
+    display: inline;
+    padding-right: 20px;
+}
+.contact {
+    text-align: right;
+}
+.sitelogo{
+  text-align: center;
+}
+.bg-dark {
+    background-color: #252323 !important;
+}
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 3px;
+}

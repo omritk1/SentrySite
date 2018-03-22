@@ -1,0 +1,20 @@
+.banner{
+  padding-top: 170px;
+  text-align: center;
+}
+.banner h2{
+  font-size: 46px;
+}
+.banner h3{
+  font-size: 35px;
+}
+.banner h1{
+  font-size: 19px;
+  color: #259C70;
+}
+.banner p{
+  margin-top: -20px;
+  margin-bottom: 85px;
+  font-size: 100px;
+  color: #259C70;
+}
